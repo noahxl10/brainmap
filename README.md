@@ -11,3 +11,4 @@ I want to be able to branch off of responses to go into more detail on a topic, 
 
 
 Screenshot:
+<img width="1197" height="749" alt="Image" src="https://github.com/user-attachments/assets/63150482-c46a-4148-9ed3-82166aa32dd1" />
